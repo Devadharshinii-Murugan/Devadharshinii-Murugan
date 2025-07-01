@@ -56,7 +56,9 @@ Terfs Academy College (Face Prep Campus), Tiruppur
 
 ## 🏆 Achievements
 - Tata Imagination Challenge (Shortlisted in 2023 & 2024)
-- Solved 600+ Problems 
+- Solved 600+ Problems
+- Attended Workshops in IITM-Research Park (AI)
+- And also in KSR college (MERN Stack development)
 
 ## 📫 Connect With Me
 
