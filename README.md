@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dharshini!
+# 👋 Hi, I'm Devadharshini!
 
 BCA Student | Terfs Academy College (Face Prep Campus), Tiruppur
 
